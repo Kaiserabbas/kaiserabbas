@@ -1,8 +1,5 @@
 ### Hi there 👋
-
-<!--
-**Kaiserabbas/kaiserabbas**y.
-
+**Kaiserabbas/kaiserabbas**
  Front-end developer with 3+ years of experience building user-friendly and interactive web applications. Proven ability to work independently and as part of a team to deliver high-quality products.:
 
 - 🔭 I’m currently working on skills:
@@ -48,4 +45,4 @@ Photography
 Hiking
 
 - Looking for a challenging and rewarding opportunity to use my skills and experience to build great products.
--->
+
