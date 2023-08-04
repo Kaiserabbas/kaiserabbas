@@ -1,5 +1,5 @@
 ### Hi there 👋
-- **I am available to hire as a remote software developer**.
+
 - **Kaiserabbas/kaiserabbas**
 - Front-end developer with 3+ years of experience building user-friendly and interactive web applications. Proven ability to work independently and as part of a team to deliver high-quality products.:
 
@@ -30,7 +30,7 @@ A Redux-based state management library
 
 - **Education**:
 
-Bachelor of Science in Computer Science
+Bachelor of Science.
 University of Agriculture, Faisalabad, Pakistan
 
 -**Awards and Honors**:
