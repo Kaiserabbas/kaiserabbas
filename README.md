@@ -112,7 +112,6 @@ In addition to coding, I'm proficient in using various tools and software, inclu
 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Kaiserabbas&theme=dark&hide_border=false)<br/>
 
-## Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=Kaiserabbas&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
