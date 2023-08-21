@@ -1,7 +1,10 @@
-### Hi there 👋
 
-- **https://github.com/Kaiserabbas**
-- Front-end developer with 3+ years of experience building user-friendly and interactive web applications. Proven ability to work independently and as part of a team to deliver high-quality products.:
+# Hello, I'm Qaisar👋
+
+## About Me
+
+I'm a passionate Software Developer with a deep interest in Software Development. With a background in Computer Design, I'm driven by the curiosity to explore new technologies and solve real-world challenges. I believe in the power of technology to shape a better future and am dedicated to contributing to meaningful projects.
+Front-end developer with 3+ years of experience building user-friendly and interactive web applications. Proven ability to work independently and as part of a team to deliver high-quality products.:
 
 - 🔭 **I’m currently working on skills**:
 HTML, 
@@ -14,41 +17,58 @@ GitHub,
 React, 
 Redux, 
 TypeScript
-- **Front-end Developer**
+
+**Front-end/Back-end Developer**
 Microverse Organization
 2022 - Present
 
-Built and maintained the company's website using Javascript and CSS.
-Contributed to the development of a new website app using Javascript.
-Worked with a team of developers to improve the user experience of the client's website.
+- Built and maintained the company's website using Javascript and CSS.
+- Contributed to the development of a new website app using Javascript.
+- Worked with a team of developers to improve the user experience of the client's website.
 
-- **Projects**:
-Personal website
-A React-based to-do list app
-A Redux-based state management library
+**Projects**: <br />
+- [Fusion Bites Resturant App](https://github.com/Kaiserabbas/Fusion-Bites)
+
+- [Math Magician - Caclulator](https://github.com/Kaiserabbas/math-magician)
+
+- [Weather Information App](https://github.com/Kaiserabbas/Weather-App)
+
+- [Books Reading Stats](https://github.com/Kaiserabbas/bookstore)
+
+- [LeaderBoard](https://github.com/Kaiserabbas/leaderboard)
+
+- [Tools for Today](https://github.com/Kaiserabbas/Tool-Shed)
+
+- [ToDo List](https://github.com/Kaiserabbas/myday-todo)
+
+- [My Portfolio](https://github.com/Kaiserabbas/project-portfolio)
+
+- [Books for Reading](https://github.com/Kaiserabbas/Awesome-books)
+
+- [Conference Portal](https://github.com/Kaiserabbas/Capstone)
 
 
-- **Education**:
+**Education**:
 
 Bachelor of Science.
 University of Agriculture, Faisalabad, Pakistan
 
--**Awards and Honors**:
+**Awards and Honors**:
 Dean's List
 President's List
 ACM International Collegiate Programming Contest
 
--**Interests**:
+**Interests**:
 Programming
 Web development
 Open source
-Photography
-Hiking
+Design Applications
+Watching Sports
 
-- Looking for a challenging and rewarding opportunity to use my skills and experience to build great products.
+Looking for a challenging and rewarding opportunity to use my skills and experience to build great products.
 
 ## Skills
-<div align="center">
+<div>
 
 [![CSS Badge](https://img.shields.io/badge/-CSS-1572B6?logo=css3&logoColor=white)](https://www.w3.org/Style/CSS/)
 [![HTML5 Badge](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white)](https://html.spec.whatwg.org/)
@@ -62,12 +82,24 @@ Hiking
 [![MySQL Badge](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white)](https://www.mysql.com/)
 [![Frontend Badge](https://img.shields.io/badge/-Front%20End-42B983?logo=frontend&logoColor=white)](https://en.wikipedia.org/wiki/Front-end_web_development)
 [![Backend Badge](https://img.shields.io/badge/-Back%20End-333?logo=backend&logoColor=white)](https://en.wikipedia.org/wiki/Back_end)
+</div>
 
-<div align="center">
+## Tools and Software
+
+In addition to coding, I'm proficient in using various tools and software, including:
+
+- [Canva](https://www.canva.com/)
+- [Adobe Photoshop](https://www.adobe.com/products/photoshop.html)
+- [Adobe Premiere](https://www.adobe.com/products/premiere.html)
+- [Adobe Illustrator](https://www.adobe.com/products/illustrator.html)
+- [AutoCAD](https://www.autodesk.com/products/autocad/overview)
+- [Microsoft Office Suite](https://www.microsoft.com/en-us/microsoft-365/get-started-with-office-2019)
+
+<div>
   
   ![](https://komarev.com/ghpvc/?username=BiancaMe&style=for-the-badge&color=yellow)
 </div>
-<div align="center">
+<div>
   
   [![Contribution Stats](https://github-contribution-stats.vercel.app/api/?username=BiancaMe)](https://github.com/BiancaMe/github-contribution-stats/)
 </div>
