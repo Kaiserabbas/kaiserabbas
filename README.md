@@ -97,11 +97,11 @@ In addition to coding, I'm proficient in using various tools and software, inclu
 
 <div>
   
-  ![](https://komarev.com/ghpvc/?username=BiancaMe&style=for-the-badge&color=yellow)
+  ![](https://komarev.com/ghpvc/?username=kaiserabbas&style=for-the-badge&color=yellow)
 </div>
 <div>
   
-  [![Contribution Stats](https://github-contribution-stats.vercel.app/api/?username=BiancaMe)](https://github.com/BiancaMe/github-contribution-stats/)
+  [![Contribution Stats](https://github-contribution-stats.vercel.app/api/?username=kaiserabbas)](https://github.com/kaiserabbas/github-contribution-stats/)
 </div>
 
 ## GitHub Stats
