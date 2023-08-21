@@ -68,7 +68,8 @@ Hiking
 [![Javascript Badge](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 [![React Badge](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black)](https://reactjs.org/)
 [![Typescript Badge](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
-![Node.JS](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)&nbsp;
+[![Redux Badge](https://img.shields.io/badge/-Redux-764ABC?logo=redux&logoColor=white)](https://redux.js.org/)
+[![Node.js Badge](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white)](https://nodejs.org/)
 [![API Badge](https://img.shields.io/badge/-API-0096D6?logo=api&logoColor=white)](https://en.wikipedia.org/wiki/Application_programming_interface)
 [![Networking Badge](https://img.shields.io/badge/-Networking-008080?logo=network&logoColor=white)](https://en.wikipedia.org/wiki/Computer_network)
 [![MySQL Badge](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white)](https://www.mysql.com/)
