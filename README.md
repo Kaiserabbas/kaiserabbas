@@ -106,17 +106,41 @@ Looking for a challenging and rewarding opportunity to use my skills and experie
 
 ## Skills
 <div>
+# Skills Set
 
-[![CSS Badge](https://img.shields.io/badge/-CSS-1572B6?logo=css3&logoColor=white)](https://www.w3.org/Style/CSS/)
+## Web Development
+
 [![HTML5 Badge](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white)](https://html.spec.whatwg.org/)
-[![Javascript Badge](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+[![CSS Badge](https://img.shields.io/badge/-CSS-1572B6?logo=css3&logoColor=white)](https://www.w3.org/Style/CSS/)
+[![JavaScript Badge](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 [![React Badge](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black)](https://reactjs.org/)
-[![Typescript Badge](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
+[![TypeScript Badge](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
 [![Redux Badge](https://img.shields.io/badge/-Redux-764ABC?logo=redux&logoColor=white)](https://redux.js.org/)
 [![Node.js Badge](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white)](https://nodejs.org/)
+[![Express Badge](https://img.shields.io/badge/-Express-000?logo=express&logoColor=white)](https://expressjs.com/)
+[![Ruby Badge](https://img.shields.io/badge/-Ruby-CC342D?logo=ruby&logoColor=white)](https://www.ruby-lang.org/en/)
+[![Ruby on Rails Badge](https://img.shields.io/badge/-Ruby_on_Rails-CC0000?logo=ruby-on-rails&logoColor=white)](https://rubyonrails.org/)
+[![MongoDB Badge](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white)](https://www.mongodb.com/)
+
+## DevOps & Cloud Services
+
+[![Netlify Badge](https://img.shields.io/badge/-Netlify-00C7B7?logo=netlify&logoColor=white)](https://www.netlify.com/)
+[![Cloudflare Badge](https://img.shields.io/badge/-Cloudflare-F38020?logo=cloudflare&logoColor=white)](https://www.cloudflare.com/)
+[![Vercel Badge](https://img.shields.io/badge/-Vercel-000000?logo=vercel&logoColor=white)](https://vercel.com/)
+[![Render Badge](https://img.shields.io/badge/-Render-333?logo=render&logoColor=white)](https://render.com/)
+[![Heroku Badge](https://img.shields.io/badge/-Heroku-430098?logo=heroku&logoColor=white)](https://www.heroku.com/)
+
+## Database
+
+[![PostgreSQL Badge](https://img.shields.io/badge/-PostgreSQL-336791?logo=postgresql&logoColor=white)](https://www.postgresql.org/)
+[![MySQL Badge](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white)](https://www.mysql.com/)
+
+## Other Skills
+
 [![API Badge](https://img.shields.io/badge/-API-0096D6?logo=api&logoColor=white)](https://en.wikipedia.org/wiki/Application_programming_interface)
 [![Networking Badge](https://img.shields.io/badge/-Networking-008080?logo=network&logoColor=white)](https://en.wikipedia.org/wiki/Computer_network)
-[![MySQL Badge](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white)](https://www.mysql.com/)
+
+
 [![Frontend Badge](https://img.shields.io/badge/-Front%20End-42B983?logo=frontend&logoColor=white)](https://en.wikipedia.org/wiki/Front-end_web_development)
 [![Backend Badge](https://img.shields.io/badge/-Back%20End-333?logo=backend&logoColor=white)](https://en.wikipedia.org/wiki/Back_end)
 </div>
