@@ -106,7 +106,6 @@ Looking for a challenging and rewarding opportunity to use my skills and experie
 
 ## Skills
 <div>
-# Skills Set
 
 ## Web Development
 
