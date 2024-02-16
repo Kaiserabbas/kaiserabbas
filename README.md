@@ -4,7 +4,7 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/kaisar-abbas">LinkedIn</a> |
-  <a href="https://https://qaisar-abbas-portfolio.vercel.app//">Portfolio</a> |
+  <a href="https://https://qaisar-abbas-portfolio.vercel.app/">Portfolio</a> |
   <a href="https://github.com/Kaiserabbas">GitHub</a>
 </p>
 
